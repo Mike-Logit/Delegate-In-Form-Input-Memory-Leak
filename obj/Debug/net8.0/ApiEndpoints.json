@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "DelegateInFormInputMemoryLeak.Controllers.TestApiController",
+    "Method": "Post",
+    "RelativePath": "api/test/Post",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "_",
+        "Type": "DelegateInFormInputMemoryLeak.Controllers.TestInputModel",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "OVNM8li4qJTONcFYhB64tgKHLcyYYFP6DY6IYK8B7mE=",
+  "Source": "DelegateInFormInputMemoryLeak",
+  "BasePath": "_content/DelegateInFormInputMemoryLeak",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
